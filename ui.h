@@ -5,6 +5,7 @@
  * Author: Jim Luzano-Belfield
  *
  * User interface layer: all console input and output lives here.
+ * This is where all user interface functions are declared.
  */
 
 #ifndef UI_H

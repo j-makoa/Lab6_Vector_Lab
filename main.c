@@ -5,6 +5,7 @@
  * Author: Jim Luzano-Belfield
  *
  * Handles the -h option, then hands off to the user interface.
+ * This is a test comment to be added to main
  * Compile: make
  */
 #include <stdio.h>
