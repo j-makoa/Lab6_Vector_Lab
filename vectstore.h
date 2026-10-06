@@ -6,6 +6,7 @@
  *
  * Storage layer: manages the array of up to MAX_VECTS vectors.
  * No console I/O belongs in this layer.
+ * This is where all vector storage functions are declared.
  */
 
 #ifndef VECTSTORE_H

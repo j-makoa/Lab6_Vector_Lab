@@ -5,6 +5,7 @@
  * Author: Jim Luzano-Belfield
  *
  * Vector storage and management (middle layer).
+ * This is where all vector storage functions are implemented.
  */
 
 #include <string.h>
